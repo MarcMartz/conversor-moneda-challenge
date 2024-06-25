@@ -2,11 +2,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-  <img src="https://img.shields.io/badge/logo-openjdk?logo=openjdk&logoColor=black&color=white">
+  <img src="https://img.shields.io/badge/JAVA-17-orange">
 </p>
 
 ## Descripción del proyecto
-Es una aplicación desarrollada en Java que interactúa con la API [Exchange Rate API](https://www.exchangerate-api.com/) para obtener tasas de cambio en tiempo real. Esta herramienta permite al usuario realizar conversiones de diferentes monedas de precisa y actualizada.
+Es una aplicación desarrollada en Java que interactúa con la API [Exchange Rate API](https://www.exchangerate-api.com/) 
+para obtener tasas de cambio en tiempo real. Esta herramienta permite al usuario (vía consola) realizar conversiones de diferentes 
+monedas de manera precisa y actualizada.
 
 <p align="center">
   <img src="https://github.com/MarcMartz/conversorMoneda/assets/88258260/64205615-5e44-4d94-aabe-90e0d33fb863">
@@ -34,13 +36,23 @@ Es una aplicación desarrollada en Java que interactúa con la API [Exchange Rat
 
 ## 📁 Acceso al proyecto
 
-Descargar o clonar el proyecto
+Sigue estos pasos para configurar el proyecto en tu entorno local:
+
+1. Clona el repositorio
+    ```sh
+    git clone https://github.com/MarcMartz/conversor-moneda-challenge.git
+    ```
+2. Navega al directorio del proyecto
+    ```sh
+    cd conversor-moneda-challenge
+    ```
 
 ## 🛠️ Abre y ejecuta el proyecto
 
-Ejecutar el método main de la clase Principal
+Ejecuta el método main de la clase `Principal.java`
 
 ## Tecnologías utilizadas
 
 - Java 17
 - Gson
+- IntelliJ IDEA

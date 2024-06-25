@@ -40,11 +40,11 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 1. Clona el repositorio
     ```sh
-    git clone https://github.com/MarcMartz/conversor-moneda-challenge.git
+    git clone https://github.com/MarcMartz/conversorMoneda-api-challenge-java.git
     ```
 2. Navega al directorio del proyecto
     ```sh
-    cd conversor-moneda-challenge
+    cd conversorMoneda-api-challenge-java
     ```
 
 ## 🛠️ Abre y ejecuta el proyecto
